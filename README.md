@@ -1,6 +1,6 @@
 # Projeto Delivery - JavaFX + JDBC + MySQL
 
-Projeto corrigido para usar o banco `delivery` com as tabelas do dump enviado:
+Projeto para utilizar o banco `delivery` com as tabelas correspondentes:
 `cliente`, `produto`, `entregador`, `pedido`, `item_pedido` e `entrega`.
 
 ## Como rodar
